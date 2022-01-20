@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3aaf4253-26cc-4c03-b04b-cda19ccd0724": {
+      "ProjectGuid": "3aaf4253-26cc-4c03-b04b-cda19ccd0724",
+      "DisplayName": "Banque",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

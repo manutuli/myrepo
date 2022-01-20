@@ -1,0 +1,3 @@
+C:\Users\Manu\source\repos\Banque\ExoSimp\obj\Debug\ExoSimp.csproj.AssemblyReference.cache
+C:\Users\Manu\source\repos\Banque\ExoSimp\obj\Debug\ExoSimp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manu\source\repos\Banque\ExoSimp\obj\Debug\ExoSimp.csproj.CoreCompileInputs.cache
